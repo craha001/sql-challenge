@@ -8,14 +8,14 @@ Create the tables in the following order: departments, titles, employees, dept_e
 The goal of this module was to use the above CSV files to create tables to use the files in order to organize different tables based on what was asked. Using the SQL_Challenge_Query file, we can organize a company's information by departments, employee number,first name, last name, salaries, and sex. 
 
 ### **Data Analysis**
-Using the query file it is divided into 8 sections based on the different tables needed to be visualized. 
-1st Table: Employee Number, Last Name, First Name, Sex, Salary
-2nd Table: Last Name, First Name, and Hire Data specifically for employees hired in 1986
-3rd Table: Department Number, Department Name, Employee Number, Last Name, First Name specifically for individuals who are managers.
-4th Table: Department Number, Employee Number, Last Name, First Name, and Department Name for all employees.
-5th Table: Last Name, First Name, and Sex for individuals who have the first name 'Hercules' and whose last names start with the letter 'B.'
-6th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department.
-7th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department or the Development Department.
-8th Table: Last Name and Counts for all last names within the company organized in descending order.
+Using the query file it is divided into 8 sections based on the different tables needed to be visualized.   
+1st Table: Employee Number, Last Name, First Name, Sex, Salary  
+2nd Table: Last Name, First Name, and Hire Data specifically for employees hired in 1986  
+3rd Table: Department Number, Department Name, Employee Number, Last Name, First Name specifically for individuals who are managers.  
+4th Table: Department Number, Employee Number, Last Name, First Name, and Department Name for all employees.  
+5th Table: Last Name, First Name, and Sex for individuals who have the first name 'Hercules' and whose last names start with the letter 'B.'  
+6th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department.  
+7th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department or the Development Department.  
+8th Table: Last Name and Counts for all last names within the company organized in descending order.  
 
 For this assignment, I collaborated with Nicolas Ortega and Brendan Golden in creating the code. 
