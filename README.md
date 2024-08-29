@@ -16,6 +16,6 @@ Using the query file it is divided into 8 sections based on the different tables
 5th Table: Last Name, First Name, and Sex for individuals who have the first name 'Hercules' and whose last names start with the letter 'B.'  
 6th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department.  
 7th Table: Department Name, Employee Number, Last Name and First Name for individuals specifically in the Sales Department or the Development Department.  
-8th Table: Last Name and Counts for all last names within the company organized in descending order.  
+8th Table: Last Name and Counts for all last names within the company organized in descending order. Here we can see how many people in the company share the same last name within this time period.    
 
 For this assignment, I collaborated with Nicolas Ortega and Brendan Golden in creating the code. 
