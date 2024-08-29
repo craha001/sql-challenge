@@ -5,7 +5,7 @@ For this week's module challenge our objective is to act as a new data engineer 
 Create the tables in the following order: departments, titles, employees, dept_emp, dept_manager, salaries. Once the tables are created make sure to import the data into their corresponding table in the same order they were created. Departments, titles, employees have our primary keys and the remaining three tables have foreign keys which reference our main tables. The code for table creation can be found in the SQL_Challenge_Schemata file. Finally, to visualize the relationships between the tables click on the PNG file named SQL_Challenge_ERD_Image.
 
 ### **Data Engineering**
-The goal of this module was to use the above CSV files to create tables to use the files in order to organize different tables based on what was asked. Using the SQL_Challenge_Query file, we can organize a company's information by departments, employee number,first name, last name, salaries, and sex. 
+The goal of this module was to use the above CSV files to create tables to use the files in order to organize different tables based on what was asked. Using the SQL_Challenge_Query file, we can organize the company's information by departments, employee number,first name, last name, salaries, and sex. 
 
 ### **Data Analysis**
 Using the query file it is divided into 8 sections based on the different tables needed to be visualized.   
